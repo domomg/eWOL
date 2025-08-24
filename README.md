@@ -7,6 +7,8 @@ This project is designed for anyone who wants a hassle-free Wake-On-LAN tool wit
 
 No containers, no binaries, just simple HTML + JS + Lua + etherwake
 
+![Screenshot](res/screenshot.png)
+
 ---
 
 ## Features
