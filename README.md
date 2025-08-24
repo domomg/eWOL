@@ -122,4 +122,4 @@ rm /www/cgi-bin/ewol-ctl
 
 ## License
 
-MIT — free as in freedom.
+MIT, free as in freedom.
