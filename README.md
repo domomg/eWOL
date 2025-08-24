@@ -25,9 +25,8 @@ No containers, no binaries, just simple HTML + JS + Lua + etherwake
 1. **SSH login as root on your OpenWRT router, then grab the install script:**
 
     ```sh
-    $ ssh root@your-router-ip
-    # wget -O ./ewol-install.sh https://raw.githubusercontent.com/domomg/eWOL/refs/heads/main/ewol-install.sh
-    # sh ./ewol-install.sh
+    wget -O ./ewol-install.sh https://raw.githubusercontent.com/domomg/eWOL/refs/heads/main/ewol-install.sh
+    sh ./ewol-install.sh
     ```
 
 2. **Edit `/www/pwol/devices.json` to add your devices:**
