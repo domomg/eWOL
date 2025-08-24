@@ -70,7 +70,7 @@ cat > "$EWOL_DIR/index.html" << 'EOF'
 
     <div class="footer">
     Served from <code>/www/ewol</code><br/>
-    API: <code>/cgi-bin/ewol-ctl</code>
+    API: <code>/cgi-bin/ewol-ctl</code><br/>
     <a href="https://github.com/domomg/ewol" target="_blank" rel="noopener">GitHub: domomg/ewol</a>
     </div>
   </main>
