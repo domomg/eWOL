@@ -14,7 +14,7 @@ No containers, no binaries, just simple HTML + JS + Lua + etherwake
 ## Features
 
 - **One-step install:** Just run the shell script on your router.
-- **Nice, responsive UI:** Dark/light theme, font size zoom buttons.
+- **Nice, responsive UI:** Dark/light theme, font size zoom buttons, sortable Hostname / IP / Mac columns.
 - **Device status:** Wake devices, check if they're online, see clear status icons.
 - **Modern UX:** Remembers your theme and font zoom preferences, no page reloads.
 - **Secure by default:** Only accessible from LAN unless you intentionally enable WAN access.
