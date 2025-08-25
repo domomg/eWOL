@@ -5,7 +5,7 @@
 eWOL is a clean, practical, and user-friendly web UI for waking up and checking the status of devices on your LAN, through your OpenWrt router and a bit of Lua magic. 
 This project is designed for anyone who wants a hassle-free Wake-On-LAN tool with zero dependencies beyond standard OpenWrt packages.
 
-No containers, no binaries, just simple HTML + JS + Lua + etherwake
+No containers, no binaries, no external dependancies: just simple HTML + JS + Lua + etherwake
 
 ![Screenshot](res/screenshot.png)
 
